@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trials</string>
+    <string name="hello_Text_">Jee, Pa jee, kee ho reya aye!!</string>
+    <string name="button_send_text">Send to second Receiving-activity</string>
+    <string name="bye_text">Bye from MainActivity</string>
+</resources>
